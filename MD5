@@ -1,4 +1,4 @@
-aee993ee89c919173dfd0fc3f9502483 *DESCRIPTION
+23cad295e290ac08cb024f52f488ce0b *DESCRIPTION
 665ed4b9896de9949791009000147ee1 *NAMESPACE
 1cb0c493ff937b10540dfe084ab0f522 *R/ActisoftR.r
 78347adf90d96a714f16e0d466048612 *R/act.r
@@ -19,7 +19,7 @@ cf1a96936fcfc6a89ff43dcb7d3a71b8 *R/sheep_counter.r
 6f462e1569ccc5a0cb0c9387c77e3d2a *data/act.RData
 e5e061deb16b8c133f74bb8c3fc7a55e *inst/doc/ActisoftR.R
 c9c3f2c56cf2b8a241c5741ca2848a63 *inst/doc/ActisoftR.Rmd
-6943161e2385e171b8b7e2ae488dc624 *inst/doc/ActisoftR.html
+8da896b3cdeb6405b8810792172b16b9 *inst/doc/ActisoftR.html
 5a2c1cef099e506886c0294ea777ffbb *man/act.Rd
 83990f55807047ab9c5e170d47fb7063 *man/csd.Rd
 7786ffd8d3c072d93304db5536d1f912 *man/deagg.Rd
